@@ -1,0 +1,23 @@
+--------DATOS DEL CLIENTE---------
+Codigo: 27EB2AE8-0
+Nombre: Boris Flores
+Fecha y Hora: 3/10/2020 - 16:14
+
+----------------NUCLEO------------------
+Potencia Aparente: 48.0 watts(w)
+Potencia Maxima: 49 watts(w)
+Densidad Maxima: 4 A/mm2
+Seccion Area: 6,24 cm2
+Medida Estandar: 2.5 x 2.8 cm2
+Cantidad Chapas: 14 de 1.5 mm
+
+--------DEVANO PRIMARIO----------
+N° Espiras: 1589
+Intensidad: 0,22 A
+Seccion: 0,05 mm2
+
+--------DEVANO SECUNDARIO--------
+N° Espiras(1): 347
+N° Espiras(2): 260
+N° Espiras(3): 173
+N° Espiras(4): 87

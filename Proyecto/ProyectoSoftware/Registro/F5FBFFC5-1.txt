@@ -1,0 +1,25 @@
+--------DATOS DEL CLIENTE---------
+Codigo: F5FBFFC5-1
+Nombre: Pedro Ramirez
+Fecha y Hora: 4/10/2020 - 21:11
+
+----------------NUCLEO------------------
+Potencia Aparente: 500.0 watts(w)
+Potencia Maxima: 519,84 watts(w)
+Densidad Maxima: 2,5 A/mm2
+Seccion Area: 20,12 cm2
+Medida Estandar: 3.8 x 6 cm2
+Cantidad Chapas: 60 de 1 mm
+
+--------DEVANO PRIMARIO----------
+N° Espiras: 492
+Intensidad: 2,27 A
+Seccion: 0,91 mm2
+N° Calibre: 19
+
+--------DEVANO SECUNDARIO--------
+N° Espiras(1): 224
+N° Espiras(2): 179
+N° Espiras(3): 157
+N° Espiras(4): 134
+N° Calibre(1): 

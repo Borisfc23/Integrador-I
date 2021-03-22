@@ -1,0 +1,34 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: 1E064743-7
+Nombre: Pablo Soliz
+Fecha y Hora: 8/10/2020 - 13:5
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 810.0 watts(w)
+Potencia Maxima: 827,07 watts(w)
+Densidad Maxima: 2 A/mm2
+Perdida Hierro: 0,04 w/Kg
+Seccion Area: 33,85 cm2
+Medida Estandar: 3.8 x 9 cm2
+Forma: Acorazado
+Cantidad Chapas: 45 de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 293
+Intensidad: 3,68 A
+Seccion: 1,84 mm2
+N° Calibre: 17
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 120
+N° Calibre(1): 13 de 9.0A
+
+N° Espiras(2): 67
+N° Calibre(2): 16 de 5.0A
+
+N° Espiras(3): 53
+N° Calibre(3): 17 de 4.0A
+
+N° Espiras(4): 40
+N° Calibre(4): 18 de 3.0A
+.------------------------------------------------

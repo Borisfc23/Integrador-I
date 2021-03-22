@@ -1,0 +1,17 @@
+Codigo: B3CD5D
+Nombre: Boris
+Potencia Aparente: 48.0
+
+Nucleo
+Seccion: 4,85 cm2
+Medidas: 2.2 x 2.8
+Cantidad de Chapas: 56
+
+Devanado Primario 
+N° Espiras Primario: 2043
+Intensidad: 0,22
+Seccion Primaria: 0,05
+
+Devanado Secundario 
+N° Espiras Secundario(1): 446
+Seccion Secundaria(1): 0,25

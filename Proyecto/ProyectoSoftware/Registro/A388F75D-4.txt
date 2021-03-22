@@ -1,0 +1,32 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: A388F75D-4
+Nombre: boris flores
+Fecha y Hora: 6/10/2020 - 3:17
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 1000.0 watts(w)
+Potencia Maxima: 924,16 watts(w)
+Densidad Maxima: 2 A/mm2
+Seccion Area: 28,46 cm2
+Medida Estandar: 3.8 x 8 cm2
+Cantidad Chapas: 40 de 1.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 348
+Intensidad: 4,55 A
+Seccion: 2,27 mm2
+N° Calibre: 16
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 158
+N° Calibre(1): 13 de 10.0A
+
+N° Espiras(2): 142
+N° Calibre(2): 13 de 9.0A
+
+N° Espiras(3): 127
+N° Calibre(3): 14 de 8.0A
+
+N° Espiras(4): 79
+N° Calibre(4): 16 de 5.0A
+.------------------------------------------------

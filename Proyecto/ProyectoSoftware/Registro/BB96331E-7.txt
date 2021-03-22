@@ -1,0 +1,23 @@
+--------DATOS DEL CLIENTE---------
+Codigo: BB96331E-7
+Nombre: Boris Flores
+Fecha y Hora: 4/10/2020 - 11:5
+
+----------------NUCLEO------------------
+Potencia Aparente: 96.0 watts(w)
+Potencia Maxima: 96,04 watts(w)
+Densidad Maxima: 3,5 A/mm2
+Seccion Area: 8,82 cm2
+Medida Estandar: 2.8 x 3.5 cm2
+Cantidad Chapas: 12 de 2 mm
+
+--------DEVANO PRIMARIO----------
+N° Espiras: 1124
+Intensidad: 0,44 A
+Seccion: 0,12 mm2
+
+--------DEVANO SECUNDARIO--------
+N° Espiras(1): 245
+N° Espiras(2): 123
+N° Espiras(3): 184
+N° Espiras(4): 61

@@ -1,0 +1,17 @@
+Codigo: 0A39D8
+Nombre: Pablo
+Potencia Aparente: 48.0
+
+Nucleo
+Seccion: 6,24 cm2
+Medidas: 2.5 x 2.8
+Cantidad de Chapas: 56
+
+Devanado Primario 
+N° Espiras Primario: 1589
+Intensidad: 0,22
+Seccion Primaria: 0,05
+
+Devanado Secundario 
+N° Espiras Secundario(1): 347
+Seccion Secundaria(1): 0,25

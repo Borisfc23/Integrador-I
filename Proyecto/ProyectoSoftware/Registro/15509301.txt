@@ -1,0 +1,20 @@
+--------DATOS DEL CLIENTE---------
+Codigo: 15509301
+Nombre: Boris
+Fecha y Hora: 3/10/2020 - 2:50
+
+----------------NUCLEO------------------
+Potencia Aparente: 48.0 watts(w)
+Densidad Maxima: 4 A/mm2
+Seccion Area: 6,24 cm2
+Medida Estandar: 2.5 x 2.8 cm2
+Cantidad Chapas: 7 de 2.5 mm
+
+--------DEVANO PRIMARIO----------
+N° Espiras: 1589
+Intensidad: 0,22 A
+Seccion: 0,05 mm2
+
+--------DEVANO SECUNDARIO--------
+N° Espiras: 347
+Seccion: 0,25 mm2

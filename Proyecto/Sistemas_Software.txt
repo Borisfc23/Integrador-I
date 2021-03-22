@@ -1,0 +1,65 @@
+TRANSFORMADORES MONOFASICOS:
+Son utilizados como máquinas para la variación y el control de la red eléctrica.
+Dispositivo que permite variar alguna funcion de la corriente alterna como el
+voltaje, la intensidad, manteniendo la frecuencia y potencia.(trafos ideal).
+		Electrico--->Magnetico---->Electrico
+PARTES:
+_NUCLEO: Sirve para conducir el flujo magnetico, ya que es un gran conductor.
+	Principalmente esta fabricado de hierro o de 
+	lamina apiladas de acero electrico.
+_DEVANADO P Y S: Formado por hilo de cobre enrollado en los extremos del nucleo
+		La relacion que tenga el Prim	y Sec sera la de transformacion.
+	-->Primario indica la tension entrante
+	-->Secundario la tension de salida.
+CIENCIA APLICADA:
+_Induccion Electromagnetica (Ley de Faraday)
+_Ley de Lenz: La corriente debe ser Alterna
+	-->(+)V en Secundario: + Num Vueltas
+	-->(-)V en Secundario: - Num Vueltas
+PRINCIPALES DISPOSITIVOS
+_Equipos Informaticos
+_Maquinas de Control Numerico
+_Equipo de Laboratorio
+_Equipos para Hospitales
+_Equipos y Transmicion de Radio/TV
+TIPOS
+_Transformadores elevadores: Aumentan el voltaje de salida(Trafo de Traccion)
+_Transformadores Reductores: Disminuyen el voltaje de salida(Trafo de Traccion)
+_Autotransformadores: 
+TRANSFORMADORES REALES:
+_Perdida en el Cobre: Se debe a la resistencia del cobre(Efecto Joule)
+_Perdida por Corriente Parasitas: Resistencia del nuclio
+_Perdidapor Histéresis: En el recorrido de campo magenetico cuando circula en
+		diferente sentido cada medio ciclo
+FORMAS DE TRANSFORMADORES
+_Sin Acorazar(Cuadrado)
+_Acorazado
+_Anulares
+----------------------------------------------------------------------------------------------------------
+
+       Central Electrica ------>T. Elevadores------->T. Reductores--------> Hogares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calular la longitud de arco de la parabola y distancia optima de separacion del cable de supension y lo tirantes de un puente colgante
+ecuacion de la parabola y la longitud
+tensores=tirantes verticales
+dovelas  son arcos de sementos unidos a las bases
+
+CATERIANA

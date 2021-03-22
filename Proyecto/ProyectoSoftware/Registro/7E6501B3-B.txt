@@ -1,0 +1,30 @@
+--------DATOS DEL CLIENTE---------
+Codigo: 7E6501B3-B
+Nombre: Boris Flores
+Fecha y Hora: 4/10/2020 - 23:17
+
+----------------NUCLEO------------------
+Potencia Aparente: 900.0 watts(w)
+Potencia Maxima: 924,16 watts(w)
+Densidad Maxima: 2 A/mm2
+Seccion Area: 27 cm2
+Medida Estandar: 3.8 x 8 cm2
+Cantidad Chapas: 80 de 1 mm
+
+--------DEVANO PRIMARIO----------
+N° Espiras: 367
+Intensidad: 4,09 A
+Seccion: 2,05 mm2
+N° Calibre: 17
+
+--------DEVANO SECUNDARIO--------
+N° Espiras(1): 167
+N° Calibre(1): 13 de 9.0A
+N° Espiras(2): 150
+N° Calibre(2): 14 de 8.0A
+N° Espiras(3): 117
+N° Calibre(3): 15 de 6.0A
+N° Espiras(4): 83
+N° Calibre(4): 16 de 5.0A
+.........................................
+Asistente: lara

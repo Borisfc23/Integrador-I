@@ -1,0 +1,34 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: BE687A37-5
+Nombre: Pablo
+Fecha y Hora: 8/10/2020 - 15:9
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 250.0 watts(w)
+Potencia Maxima: 255,27 watts(w)
+Densidad Maxima: 2,5 A/mm2
+Perdida Hierro: 0,04 w/Kg
+Seccion Area: 18,8 cm2
+Medida Estandar: 3.8 x 5 cm2
+Forma: Acorazado
+Cantidad Chapas: 25   de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 527
+Intensidad: 1,14 A
+Seccion: 0,45 mm2
+N° Calibre: 22
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 120
+N° Calibre(1): 16 de 5.0A
+
+N° Espiras(2): 72
+N° Calibre(2): 18 de 3.0A
+
+N° Espiras(3): 0
+N° Calibre(3): 0 de 0.0A
+
+N° Espiras(4): 0
+N° Calibre(4): 0 de 0.0A
+.------------------------------------------------
